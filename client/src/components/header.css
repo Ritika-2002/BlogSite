@@ -1,0 +1,15 @@
+.btn:hover {
+  border-radius: 20px;
+  /* background-color: #263238; */
+  border: 1px solid white;
+}
+
+.img1 {
+  height: 100px;
+  width: 100px;
+}
+.navbar {
+  /* background-color: #008B74; */
+  background-image: linear-gradient(to right top, #008b74, #00a381, #00bc8d, #00d597, #09ee9f);
+  color: white;
+}

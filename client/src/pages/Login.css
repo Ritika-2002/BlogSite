@@ -1,0 +1,24 @@
+.row{
+    /* background-color:gray; */
+    margin-top:3rem;
+    color:#008B74;
+}
+.column{
+  float: left;
+  width: 50%;
+  
+}
+img{
+  width:40rem;
+  height:34rem;
+  margin-left:4rem;
+  margin-top:2rem;
+}
+
+.submit_btn{
+  background-color:#00C9A7;
+  color:red;
+}
+.submit_btn:hover{
+  background-color:#00C9A7;
+}

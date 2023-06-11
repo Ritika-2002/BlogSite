@@ -1,0 +1,38 @@
+.find{
+    height: 3rem;
+    width: 40rem;
+    border-radius: 5px;
+    border: 1px solid black;
+    /* text-align: center; */
+    font-size: 1.3rem;
+    margin: auto;
+    /* text-align: left; */
+    padding-left: 2rem;
+    margin-left:25%;
+    margin-top:3rem;
+    justify-items:center;
+    margin-bottom:3rem;
+
+}
+
+.find-btn{
+    height:3rem;
+    width:5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    /* margin:auto; */
+    padding:10px 10px 10px 10px;
+   
+    color:white;
+    /* background-color:#E03C5E; */
+    background-image: linear-gradient(to right top, #008b74, #00a381, #00bc8d, #00d597, #09ee9f);
+    border-radius:5px;
+    border:1px solid white;
+    margin-top:2rem;
+    margin-left:2rem;
+}
+
+.create_btn{
+    background-image: linear-gradient(to right top, #008b74, #00a381, #00bc8d, #00d597, #09ee9f);
+    color:white;    
+}
